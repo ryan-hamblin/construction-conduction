@@ -47,3 +47,5 @@ var showAllUsers = function(usersList){
     console.log(users[i]);
   }
 };
+
+showAllUsers(users);
