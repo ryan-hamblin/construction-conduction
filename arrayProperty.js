@@ -16,3 +16,7 @@ name.reverse();
 String.prototype.Reverse = function(){
 	return this.split('').reverse().join('');
 }
+
+function(){
+	return this.split('').reverse().join('');
+}
